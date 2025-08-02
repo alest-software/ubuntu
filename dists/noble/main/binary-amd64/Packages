@@ -29,3 +29,18 @@ Priority: optional
 Description: Eclipse Cyclone DDS
  Development files for use with Eclipse Cyclone DDS
 
+Package: foonathan-memory
+Version: 0.7.3-12
+Architecture: amd64
+Maintainer: you@example.com
+Installed-Size: 2481
+Depends: libc6
+Filename: dists/noble/main/binary-amd64/./foonathan-memory_0.7.3-12_amd64.deb
+Size: 400740
+MD5sum: 400e793e55ac095c13ef294b83770369
+SHA1: 2f5a0dda66169c8792e60e1f80749be221917560
+SHA256: 99c1ea4b9bf85fa343ea9c3c6cc7bd95059c4a3f30901eba4dfbbc9e10b03c05
+Section: devel
+Priority: optional
+Description: foonathan_memory built using CMake
+
