@@ -59,3 +59,18 @@ Section: devel
 Priority: optional
 Description: fastcdr_ex built using CMake
 
+Package: libfastdds
+Version: 3.3.0-15
+Architecture: amd64
+Maintainer: you@example.com
+Installed-Size: 50523
+Depends: libc6
+Filename: dists/noble/main/binary-amd64/./libfastdds_3.3.0-15_amd64.deb
+Size: 5865866
+MD5sum: 1af8b01bf873253a8f9ad37ac56b68c7
+SHA1: 9c49637239f24a6b212ce68dc101c76e87dd3a78
+SHA256: 6170c621b2fc48665d081f8652e82c53dc54fa652974de34084b99501c0e2d11
+Section: devel
+Priority: optional
+Description: fastdds_ex built using CMake
+
