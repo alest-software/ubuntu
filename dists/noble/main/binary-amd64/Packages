@@ -60,16 +60,16 @@ Priority: optional
 Description: foonathan_memory built using CMake
 
 Package: libfastcdr
-Version: 2.3.0-5
+Version: 2.3.0-6
 Architecture: amd64
 Maintainer: you@example.com
 Installed-Size: 797
 Depends: libc6
-Filename: dists/noble/main/binary-amd64/./libfastcdr_2.3.0-5_amd64.deb
-Size: 81152
-MD5sum: 1f6172e8755b08049a763cbc0b71788c
-SHA1: eea8947494f150f8f8ced6d686e7b00b748a0b56
-SHA256: 980988fb6235c396fef5b465224a9e0898cdb4967bdc13120a0639cfb2606f89
+Filename: dists/noble/main/binary-amd64/./libfastcdr_2.3.0-6_amd64.deb
+Size: 81138
+MD5sum: 0badbef7b8a9701996feaa436e7e0a59
+SHA1: 154be82faa320572d018496075697c61fed75e6a
+SHA256: e4a88bb634b1f7820d84ebfdc6ccc001137da4b62e335d391dcc0d5a735dee51
 Section: devel
 Priority: optional
 Description: fastcdr_ex built using CMake
