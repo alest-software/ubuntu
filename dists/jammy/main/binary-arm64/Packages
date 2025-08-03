@@ -29,3 +29,18 @@ Priority: optional
 Description: Eclipse Cyclone DDS
  Development files for use with Eclipse Cyclone DDS
 
+Package: libfastcdr
+Version: 2.3.0-8
+Architecture: arm64
+Maintainer: you@example.com
+Installed-Size: 759
+Depends: libc6
+Filename: dists/jammy/main/binary-arm64/./libfastcdr_2.3.0-8_arm64.deb
+Size: 77722
+MD5sum: 3ab043f1d5c5f8403fcbbced6ab73350
+SHA1: 6b300c2d12e666f524fe8463b5f326b18ef0ea41
+SHA256: f3fc8f353d5091bd317d8c8a12a20701dee949b8d266833d2e7d2fc3b663723e
+Section: devel
+Priority: optional
+Description: fastcdr_ex built using CMake
+
