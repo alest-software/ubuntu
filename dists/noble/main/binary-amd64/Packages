@@ -29,6 +29,21 @@ Priority: optional
 Description: Eclipse Cyclone DDS
  Development files for use with Eclipse Cyclone DDS
 
+Package: fast-cdr
+Version: 2.3.0-4
+Architecture: amd64
+Maintainer: you@example.com
+Installed-Size: 797
+Depends: libc6
+Filename: dists/noble/main/binary-amd64/./fast-cdr_2.3.0-4_amd64.deb
+Size: 81154
+MD5sum: dc9924ea545a85ac69674341d20076f0
+SHA1: 8d625137bca4526cb114cd99aaa68b253fb705a8
+SHA256: 2468348d1977bb2a94e857067554487e2672713256f286e2a5650947b355f838
+Section: devel
+Priority: optional
+Description: fastcdr_ex built using CMake
+
 Package: foonathan-memory
 Version: 0.7.3-12
 Architecture: amd64
