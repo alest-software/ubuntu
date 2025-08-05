@@ -74,3 +74,18 @@ Section: devel
 Priority: optional
 Description: fastdds built using CMake
 
+Package: libfastdds-python
+Version: 2.3.0-10
+Architecture: amd64
+Maintainer: you@example.com
+Installed-Size: 10294
+Depends: libc6
+Filename: dists/noble/main/binary-amd64/./libfastdds-python_2.3.0-10_amd64.deb
+Size: 1930242
+MD5sum: 449d30d380dec5b83b3e8eeeb1e517f3
+SHA1: a338c3a7d26dc04fc833017a0714bac2c7ba3c19
+SHA256: 758104ab7a2a57dcd6111d09dea788fa22167d5a3986a92db56e57d570e4759c
+Section: devel
+Priority: optional
+Description: fastddspython_ex built using CMake
+
