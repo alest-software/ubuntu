@@ -30,15 +30,15 @@ Description: Eclipse Cyclone DDS
  Development files for use with Eclipse Cyclone DDS
 
 Package: fastddsgen
-Version: 4.1.0-1
+Version: 4.1.0-7
 Architecture: amd64
 Maintainer: you@example.com
 Depends: openjdk-17-jre
-Filename: dists/noble/main/binary-amd64/./fastddsgen_4.1.0-1_all.deb
-Size: 18157980
-MD5sum: 18221b3fe619932084007569d05a6d68
-SHA1: e7782f6521ad09d322016222c5e891d07d6d034c
-SHA256: 4b3a1d688583b446d3702bdc45365d0b97a62894f8651b91525a2f24d03f7e28
+Filename: dists/noble/main/binary-amd64/./fastddsgen_4.1.0-7_all.deb
+Size: 18157982
+MD5sum: d5abf74c3d2fac0a5fb84841d4948f84
+SHA1: 2d2d7ced81e42fa8e8095a1cb553ae9252a08869
+SHA256: 2c1142270e6914af826ad5c64bf314c6bb53e61367dca949177e4948c5bee151
 Section: devel
 Priority: optional
 Description: Fast-DDS-Gen
