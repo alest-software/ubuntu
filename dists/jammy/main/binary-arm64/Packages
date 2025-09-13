@@ -45,17 +45,17 @@ Priority: optional
 Description: fastcdr_ex built using CMake
 
 Package: libfastdds
-Version: 3.3.0-20
+Version: 3.3.0-23
 Architecture: arm64
 Maintainer: you@example.com
-Installed-Size: 46493
+Installed-Size: 46485
 Depends: libc6
-Filename: dists/jammy/main/binary-arm64/./libfastdds_3.3.0-20_arm64.deb
-Size: 5481094
-MD5sum: 41b8c13d77eed544b48aaa31f964236a
-SHA1: 2ec747f37838c1980a1ccacd9eb9ed1fd3e03bb3
-SHA256: f79ddc641f206db0390d7965c17eea23513fa8c630d49b5ad73ecf781e1c5740
+Filename: dists/jammy/main/binary-arm64/./libfastdds_3.3.0-23_arm64.deb
+Size: 5479796
+MD5sum: 31fbef0ad6170e9a2340e855f595e938
+SHA1: 9923efa4e6b39751d1098c24d9d92a7b8fca562a
+SHA256: 810259b4672108d6137e0679c2776d0027f9238eb6e56e9bcc8e76ba36c560b5
 Section: devel
 Priority: optional
-Description: fastdds_wrapper built using CMake
+Description: fastdds built using CMake
 
