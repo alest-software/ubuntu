@@ -60,16 +60,16 @@ Priority: optional
 Description: fastdds built using CMake
 
 Package: libfastdds-python
-Version: 2.3.0-15
+Version: 2.3.0-16
 Architecture: arm64
 Maintainer: you@example.com
-Installed-Size: 10634
+Installed-Size: 10638
 Depends: libc6
-Filename: dists/jammy/main/binary-arm64/./libfastdds-python_2.3.0-15_arm64.deb
-Size: 1897306
-MD5sum: 1ef5fa56d29af8ca9edfd5ea601417db
-SHA1: c4a139540ee23f2e280b4004276e96eb8983835f
-SHA256: 55ca901ceeb40407b75f5cf60aa9b1d7e3ea5affc521c9d5c020ce86879cc82a
+Filename: dists/jammy/main/binary-arm64/./libfastdds-python_2.3.0-16_arm64.deb
+Size: 1897322
+MD5sum: 86ae3b4e4f9431339c54572551922265
+SHA1: e3f60af45e4faf5e7958863afa7444a7e338cd6a
+SHA256: ac4181d62a83391d7ce8947f15264a0585289c87fc50b86c3a0dad1a7d551015
 Section: devel
 Priority: optional
 Description: fastddspython_ex built using CMake
