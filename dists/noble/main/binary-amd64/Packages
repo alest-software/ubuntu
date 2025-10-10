@@ -63,11 +63,11 @@ Version: 0.1.0
 Architecture: amd64
 Maintainer: you@example.com
 Depends: openjdk-17-jre
-Filename: dists/noble/main/binary-amd64/./inclination-idl-fastdds_0.1.0-9_amd64.deb
-Size: 331584
-MD5sum: dfbf78779836937bf81800dae739c7b5
-SHA1: 34fdeb70cd81f118e3f65fc7c671b4115abeb4bc
-SHA256: 7ebce80e6b5896d0cd621f381cf34a73062dfb25422c71f932db24ee91f7cece
+Filename: dists/noble/main/binary-amd64/./inclination-idl-fastdds_0.1.0-10_amd64.deb
+Size: 264328
+MD5sum: 5fe381325ed661ceb7c5c62a560d7a46
+SHA1: 78dce2c688c49447647c65876fbf8e9fd33d7049
+SHA256: df50a0c0ffec695c019a37f65fd6707aec915cb90756470922d2e5ca6322f6ed
 Section: devel
 Priority: optional
 Description: You @ example.com
