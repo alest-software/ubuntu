@@ -29,6 +29,20 @@ Priority: optional
 Description: Eclipse Cyclone DDS
  Development files for use with Eclipse Cyclone DDS
 
+Package: fastddsgen
+Version: 4.1.0-11
+Architecture: arm64
+Maintainer: you@example.com
+Depends: openjdk-17-jre
+Filename: dists/jammy/main/binary-arm64/./fastddsgen_4.1.0-11_arm64.deb
+Size: 18150572
+MD5sum: da20953c9e935b03af94a731073320e8
+SHA1: 8ec80b62f5da8e27b91dcd3f0b4fbe54c0f39852
+SHA256: 4606042fd6e5f8de0a627d128025af70ed026491adcb7a1ab88651a306022c84
+Section: devel
+Priority: optional
+Description: Fast-DDS-Gen
+
 Package: libfastcdr
 Version: 2.3.0-8
 Architecture: arm64
