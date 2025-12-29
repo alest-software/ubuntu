@@ -1,0 +1,14 @@
+Package: fastddsgen
+Version: 4.1.0-9
+Architecture: amd64
+Maintainer: you@example.com
+Depends: openjdk-17-jre
+Filename: dists/jammy/main/binary-amd64/./fastddsgen_4.1.0-9_all.deb
+Size: 18150562
+MD5sum: 0fa41b994fa78e5439fe084e6d7049a0
+SHA1: be4246351e61b859768b1e63d7c99949ff642653
+SHA256: abfc0c85523c73e0d682d59b69515a9a99ae4bce3f0b4ae3d58f84d8f8ecc46c
+Section: devel
+Priority: optional
+Description: Fast-DDS-Gen
+
