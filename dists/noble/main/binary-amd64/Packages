@@ -59,15 +59,15 @@ Priority: optional
 Description: foonathan_memory built using CMake
 
 Package: inclination-idl-fastdds
-Version: 0.1.0-11
+Version: 0.1.0-12
 Architecture: amd64
 Maintainer: you@example.com
 Depends: openjdk-17-jre
-Filename: dists/noble/main/binary-amd64/./inclination-idl-fastdds_0.1.0-11_amd64.deb
-Size: 265380
-MD5sum: a9dcbad637ace69f910b1a8e2b9ab26f
-SHA1: d0c5acb6ecc8cb93c53a2a72d498dfdeae35b0e4
-SHA256: abb179139cae9bc9168a759afcd3c92c23161c0b48f4318b978c203272c5a39d
+Filename: dists/noble/main/binary-amd64/./inclination-idl-fastdds_0.1.0-12_amd64.deb
+Size: 263870
+MD5sum: 1a4a1f7e5165aed179eb9de723e0ee4c
+SHA1: 54fc105bc9f55c9a1aa2d444eb0a126dbed89dbf
+SHA256: a0935025b64372dd58b9de0934f3a152fdf669b7adb8a4093c9a35d64a4c5139
 Section: devel
 Priority: optional
 Description: You @ example.com
