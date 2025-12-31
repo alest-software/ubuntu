@@ -117,3 +117,14 @@ Section: devel
 Priority: optional
 Description: fastddspython_ex built using CMake
 
+Package: libfoonathan-memory
+Version: 0.1.0
+Architecture: amd64
+Maintainer: you@example.com
+Filename: dists/noble/main/binary-amd64/./libfoonathan-memory_0.1.0-19_amd64.deb
+Size: 294188
+MD5sum: e2285ee5f0d94ff7a3154e5f9e1875dd
+SHA1: 85d959ebde36a5f4bdefc4fc2c2c4fe0d66444a6
+SHA256: bce11b0f14c69c4a94dfbc2039fbe9b1fffe79fb171f418e35d6c9647115ca90
+Description: Foonathan memory allocator
+
