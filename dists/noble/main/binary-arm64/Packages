@@ -42,3 +42,16 @@ Section: devel
 Priority: optional
 Description: Foonathan memory allocator
 
+Package: libfastcdr
+Version: 2.3.0
+Architecture: arm64
+Maintainer: you@example.com
+Filename: dists/noble/main/binary-arm64/./libfastcdr_2.3.0-9_arm64.deb
+Size: 61402
+MD5sum: 33e9899864cc2e92d21778f9a21a642f
+SHA1: 19d48d48fddbe5b93cab45eb59ac7eaeea78f7ef
+SHA256: cbc7823c5489e1721b083696b907bf1f7f383df353d6ea698c718ef91fd7e128
+Section: devel
+Priority: optional
+Description: Fast-CDR
+
