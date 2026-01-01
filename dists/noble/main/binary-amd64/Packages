@@ -72,11 +72,11 @@ Package: libfastcdr
 Version: 2.3.0
 Architecture: amd64
 Maintainer: you@example.com
-Filename: dists/noble/main/binary-amd64/./libfastcdr_2.3.0-9_amd64.deb
-Size: 63250
-MD5sum: 7243f0eb8e7e15a0682fbbc5ad62b0ab
-SHA1: baa8189bc11d422de21757a43a844e55bbd24f36
-SHA256: 267c0f65ceb4a9a620b5f888144d96046327d56fec6a9171a8c87f5677d1b926
+Filename: dists/noble/main/binary-amd64/./libfastcdr_2.3.0-10_amd64.deb
+Size: 63204
+MD5sum: d8a21c3347bf6959262f94bcdb35e288
+SHA1: 10ad7f13db8a891beb77e1033d1eda7d73024f10
+SHA256: 87a05724febaf04dfa5f5ff061fb8bc1e35e9e207cc652c5c90bf6090c27a69e
 Section: devel
 Priority: optional
 Description: Fast-CDR
