@@ -47,11 +47,11 @@ Package: foonathan-memory
 Version: 0.7.3
 Architecture: amd64
 Maintainer: you@example.com
-Filename: dists/noble/main/binary-amd64/./foonathan-memory_0.7.3-26_amd64.deb
-Size: 293920
-MD5sum: 905e90491f7b64cae01c49339c87fd36
-SHA1: 612ebc66d2827b45b4832e52a4d89a7f919779c1
-SHA256: 64afa9fc17de8d3a94e20cf57c9c6be0d0fc9c23423e0b61c064120d201f6a9f
+Filename: dists/noble/main/binary-amd64/./foonathan-memory_0.7.3-27_amd64.deb
+Size: 287958
+MD5sum: 3adca880ecc123c1b8c98d9e49d42bc1
+SHA1: fb1475faeba17952f79740ee60ee03726cf35dd7
+SHA256: e515e1685b58e62be26e4ceacc2aa61cd2de59d4b09ac87c076881f6170da1e9
 Description: Foonathan memory allocator
 
 Package: inclination-idl-fastdds
