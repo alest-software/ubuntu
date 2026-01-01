@@ -44,19 +44,15 @@ Priority: optional
 Description: Fast-DDS-Gen
 
 Package: foonathan-memory
-Version: 0.7.3-13
+Version: 0.7.3
 Architecture: amd64
 Maintainer: you@example.com
-Installed-Size: 2481
-Depends: libc6
-Filename: dists/noble/main/binary-amd64/./foonathan-memory_0.7.3-13_amd64.deb
-Size: 400728
-MD5sum: f6aa16f71fb996b9cf63c812421bbff5
-SHA1: 86ccc02541b503982f2955a91060057ef854566f
-SHA256: 73c5f9befa48b7d543c744780c03544cdc8160fb894a37bdaf20dca6a1ea6aa0
-Section: devel
-Priority: optional
-Description: foonathan_memory built using CMake
+Filename: dists/noble/main/binary-amd64/./foonathan-memory_0.7.3-26_amd64.deb
+Size: 293920
+MD5sum: 905e90491f7b64cae01c49339c87fd36
+SHA1: 612ebc66d2827b45b4832e52a4d89a7f919779c1
+SHA256: 64afa9fc17de8d3a94e20cf57c9c6be0d0fc9c23423e0b61c064120d201f6a9f
+Description: Foonathan memory allocator
 
 Package: inclination-idl-fastdds
 Version: 0.1.0-13
