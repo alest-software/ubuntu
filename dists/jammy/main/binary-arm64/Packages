@@ -47,11 +47,13 @@ Package: foonathan-memory
 Version: 0.7.3
 Architecture: arm64
 Maintainer: you@example.com
-Filename: dists/jammy/main/binary-arm64/./foonathan-memory_0.7.3-27_arm64.deb
-Size: 298086
-MD5sum: 075dd20d5a44180c7357f25a160219ed
-SHA1: 1e3d6d632c6d3896622323568ff047e98a9dafb1
-SHA256: 9d5a209936f6c1beb2a7da2587a73ecc73388f1d2e025c711ae43a146847b44d
+Filename: dists/jammy/main/binary-arm64/./foonathan-memory_0.7.3-29_arm64.deb
+Size: 298062
+MD5sum: 11134048d94c77975dddf56f06d82b86
+SHA1: 729f5748c3a8019461002adfdb10ab494f16888e
+SHA256: a3709823941009f436c717201863b30c45a5d89cec914bdd0036432ec6c28846
+Section: devel
+Priority: optional
 Description: Foonathan memory allocator
 
 Package: inclination-idl-fastdds
