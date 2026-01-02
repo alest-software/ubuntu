@@ -97,14 +97,14 @@ Priority: optional
 Description: Fast-DDS
 
 Package: libfastdds-python
-Version: 2.3.0-19
+Version: 2.3.0-20
 Architecture: amd64
 Maintainer: you@example.com
-Filename: dists/noble/main/binary-amd64/./libfastdds-python_2.3.0-19_amd64.deb
-Size: 1348204
-MD5sum: 7f9c81fc8a876784c29b062a24f7c9ac
-SHA1: 43c286a65f77b989dcc3a099c1cb8c78f4dc3d1a
-SHA256: 06b38f4b43de2d62abcdae265c1ee2fb4ab77767fa14508fd756cadb692b2162
+Filename: dists/noble/main/binary-amd64/./libfastdds-python_2.3.0-20_amd64.deb
+Size: 1356592
+MD5sum: c4a0bf97d6d0aaec6007796279c3a51f
+SHA1: a5cca60f29b9e2a99de214d8ab79d389703e3b37
+SHA256: 268a0fff399eecd2b8f8b9fb4180174ebf5d9aa482368bff063f090a168c24a9
 Section: devel
 Priority: optional
 Description: Fast-DDS Python
