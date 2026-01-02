@@ -68,6 +68,19 @@ Section: devel
 Priority: optional
 Description: Fast-DDS
 
+Package: fastdds-python
+Version: 2.3.0-21
+Architecture: arm64
+Maintainer: you@example.com
+Filename: dists/noble/main/binary-arm64/./fastdds-python_2.3.0-21_arm64.deb
+Size: 1322528
+MD5sum: a3f19ee8694f2614d41afcd37c410973
+SHA1: 66f744376c03b08b7b63f6792776299de9291fdc
+SHA256: 173de3d405262a109b3dc4912308db9059ee3c7bd4f784730afa21256abd5f4d
+Section: devel
+Priority: optional
+Description: Fast-DDS Python
+
 Package: foonathan-memory
 Version: 0.7.3-30
 Architecture: arm64
