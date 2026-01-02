@@ -55,6 +55,19 @@ Section: devel
 Priority: optional
 Description: Fast-CDR
 
+Package: fastdds-libfastdds
+Version: 3.3.0-32
+Architecture: arm64
+Maintainer: you@example.com
+Filename: dists/noble/main/binary-arm64/./fastdds-libfastdds_3.3.0-32_arm64.deb
+Size: 4159542
+MD5sum: 8a66590ad57cdb28a4f60ce9308d1856
+SHA1: e0608c145549afded89dde1e9ae0b9b5b5e20591
+SHA256: 6793f4dd6b46dbb90367da2b635f7a2ac3af5deb0366237108e9f629bfdda2e5
+Section: devel
+Priority: optional
+Description: Fast-DDS
+
 Package: foonathan-memory
 Version: 0.7.3-30
 Architecture: arm64
