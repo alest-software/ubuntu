@@ -84,19 +84,17 @@ Priority: optional
 Description: Fast-CDR
 
 Package: libfastdds
-Version: 3.3.0-24
+Version: 3.3.0-31
 Architecture: amd64
 Maintainer: you@example.com
-Installed-Size: 50515
-Depends: libc6
-Filename: dists/noble/main/binary-amd64/./libfastdds_3.3.0-24_amd64.deb
-Size: 5864652
-MD5sum: 7ba08283b1b99e1aa6097e7b69e5d0f9
-SHA1: 04246673f033ca47ba20d3fed0c1ddaf22289b3e
-SHA256: 8b371adb7a3a433a8144de8280de91870338e9ea2bd510e8e376247bbfb23bf4
+Filename: dists/noble/main/binary-amd64/./libfastdds_3.3.0-31_amd64.deb
+Size: 4405130
+MD5sum: add16fe842496289e2c5f312ce88f0ea
+SHA1: 5df1c590f858e108a5a7cbecde2836acbf357a99
+SHA256: 09ef7d32094e54a82445962693f10207a5986336c78585a4e610271b4a17378f
 Section: devel
 Priority: optional
-Description: fastdds built using CMake
+Description: Fast-DDS
 
 Package: libfastdds-python
 Version: 2.3.0-16
