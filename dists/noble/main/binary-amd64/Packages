@@ -68,6 +68,19 @@ Section: devel
 Priority: optional
 Description: Fast-DDS
 
+Package: fastdds-python
+Version: 2.3.0-21
+Architecture: amd64
+Maintainer: you@example.com
+Filename: dists/noble/main/binary-amd64/./fastdds-python_2.3.0-21_amd64.deb
+Size: 1356644
+MD5sum: 30825404a578c37e1af9d57d6d9fabe9
+SHA1: 2e27a097b87f5eab703950612fe336e77fde8400
+SHA256: 309d1072f676180e3a80db04396e07fdf44ab779cf6bdc5be2bb7dd7facd0b55
+Section: devel
+Priority: optional
+Description: Fast-DDS Python
+
 Package: fastddsgen
 Version: 4.1.0-11
 Architecture: amd64
