@@ -97,14 +97,14 @@ Priority: optional
 Description: Fast-DDS
 
 Package: libfastdds-python
-Version: 2.3.0-19
+Version: 2.3.0-20
 Architecture: arm64
 Maintainer: you@example.com
-Filename: dists/jammy/main/binary-arm64/./libfastdds-python_2.3.0-19_arm64.deb
-Size: 1363246
-MD5sum: 0a64edd5190215ddd260a7c9f6e725bc
-SHA1: d53a2a68ea5221f5255680eff094c91eb5318e86
-SHA256: 59cdf3f96aaf99631256339ae77d17197768805012b2d7a2bc25f7122188fefd
+Filename: dists/jammy/main/binary-arm64/./libfastdds-python_2.3.0-20_arm64.deb
+Size: 1363298
+MD5sum: e55eabbb449998f277951775e51ce8e5
+SHA1: 09e590c27301529e3f58ae1fa5f08c2b1c11e6f7
+SHA256: a99e38ae3f57c400e855ccebb46b2400c22e6cca8502cb8c8ef2115ca463684b
 Section: devel
 Priority: optional
 Description: Fast-DDS Python
