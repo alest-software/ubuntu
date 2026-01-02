@@ -44,14 +44,14 @@ Priority: optional
 Description: Fast-DDS-Gen
 
 Package: foonathan-memory
-Version: 0.7.3
+Version: 0.7.3-30
 Architecture: amd64
 Maintainer: you@example.com
-Filename: dists/noble/main/binary-amd64/./foonathan-memory_0.7.3-29_amd64.deb
-Size: 287980
-MD5sum: a99ece078a2971cd3257ab95269b672d
-SHA1: ff482dd9d37d38811e38090d1d5b643f07a1aeb3
-SHA256: 7ca9aeeafc56ae98c59a0c9202427da11abbd019b05b7d5ff7fabdd787da7bd9
+Filename: dists/noble/main/binary-amd64/./foonathan-memory_0.7.3-30_amd64.deb
+Size: 287944
+MD5sum: 505bca76619d9fd8d4c924bc7d3b0d34
+SHA1: b416dd4e44d9f26dd9f2d18355a02054139c992b
+SHA256: f83c75fdfd52989529a42b98bd443080f0d1c7a04116eb733a6531f2236a9883
 Section: devel
 Priority: optional
 Description: Foonathan memory allocator
