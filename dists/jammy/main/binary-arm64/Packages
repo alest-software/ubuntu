@@ -44,14 +44,14 @@ Priority: optional
 Description: Fast-DDS-Gen
 
 Package: foonathan-memory
-Version: 0.7.3
+Version: 0.7.3-30
 Architecture: arm64
 Maintainer: you@example.com
-Filename: dists/jammy/main/binary-arm64/./foonathan-memory_0.7.3-29_arm64.deb
-Size: 298062
-MD5sum: 11134048d94c77975dddf56f06d82b86
-SHA1: 729f5748c3a8019461002adfdb10ab494f16888e
-SHA256: a3709823941009f436c717201863b30c45a5d89cec914bdd0036432ec6c28846
+Filename: dists/jammy/main/binary-arm64/./foonathan-memory_0.7.3-30_arm64.deb
+Size: 298082
+MD5sum: 0cfc66c959675042e80c6d81cc895a04
+SHA1: 2ad3cc4d9866942dbb70f5968b9b8b2c13b4a38d
+SHA256: 8dbc9173d2b3ec2c56c3f5765c93c7113392c5a394f6a6b3edbba5b0683c2f03
 Section: devel
 Priority: optional
 Description: Foonathan memory allocator
