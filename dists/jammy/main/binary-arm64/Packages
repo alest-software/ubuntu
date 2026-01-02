@@ -71,14 +71,14 @@ Priority: optional
 Description: You @ example.com
 
 Package: libfastcdr
-Version: 2.3.0
+Version: 2.3.0-11
 Architecture: arm64
 Maintainer: you@example.com
-Filename: dists/jammy/main/binary-arm64/./libfastcdr_2.3.0-9_arm64.deb
-Size: 61490
-MD5sum: 46112a6f09e31ee3d4f1d9c69271860b
-SHA1: 36ff94a4ffa5e770ebdfd2baa1f91f362691dd05
-SHA256: 7cb85d029f3964f464f00f8a25c6277111bea7fae77de2852356a3860f5d0f41
+Filename: dists/jammy/main/binary-arm64/./libfastcdr_2.3.0-11_arm64.deb
+Size: 61494
+MD5sum: 22794d75e0a791d28d4331a9c6482e94
+SHA1: 5178d34c4ecaf8d1a04fe6ea993cbf8683b451f9
+SHA256: 55f403d716b5244aea8d076d0e83bd093d387f5b84d219315c60c19837301e02
 Section: devel
 Priority: optional
 Description: Fast-CDR
