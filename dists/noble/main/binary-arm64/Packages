@@ -30,14 +30,14 @@ Description: Eclipse Cyclone DDS
  Development files for use with Eclipse Cyclone DDS
 
 Package: foonathan-memory
-Version: 0.7.3
+Version: 0.7.3-30
 Architecture: arm64
 Maintainer: you@example.com
-Filename: dists/noble/main/binary-arm64/./foonathan-memory_0.7.3-29_arm64.deb
-Size: 290496
-MD5sum: 26684633e05721399d15e9d1e1fc278e
-SHA1: dcaea54b51ff49a9463ac556df8c5810dd4bec34
-SHA256: 53f36641266be3c94ced9f186a5860843c9005ad6f2fd5b4d560ec43a213d08b
+Filename: dists/noble/main/binary-arm64/./foonathan-memory_0.7.3-30_arm64.deb
+Size: 290466
+MD5sum: 3511b6c653a3e6442eb4fb50ca136d28
+SHA1: bed6905425f1f348eb02fcb37cae53b1234f010e
+SHA256: be6e2cfc861848089e955afd0dbcd33238a82fe1ac86f243db621003b87b345d
 Section: devel
 Priority: optional
 Description: Foonathan memory allocator
