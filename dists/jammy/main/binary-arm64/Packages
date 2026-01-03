@@ -30,27 +30,27 @@ Description: Eclipse Cyclone DDS
  Development files for use with Eclipse Cyclone DDS
 
 Package: fastdds-foonathan-memory
-Version: 0.7.3-31
+Version: 0.7.3-32
 Architecture: arm64
 Maintainer: you@example.com
-Filename: dists/jammy/main/binary-arm64/./fastdds-foonathan-memory_0.7.3-31_arm64.deb
-Size: 298088
-MD5sum: 6afa0f8906b6938b3e235a5b7f5b0bc3
-SHA1: 9bca2aa2499aabfeb5901c2ce62acc6834b429a1
-SHA256: d3b44d5f41cfeeabce2d36b05f9dc29e3f92b86c60511e6878cfffc84d9e7262
+Filename: dists/jammy/main/binary-arm64/./fastdds-foonathan-memory_0.7.3-32_arm64.deb
+Size: 298060
+MD5sum: ebb76d49dff8cb703ea3e79774d521fb
+SHA1: 321cb6ea4a47c5739e052bd7b0b7cfe30729bc63
+SHA256: 24637213b40d35be72ecf61903f6f3ba83d72d5c984472671e5f70ddbb1b2959
 Section: devel
 Priority: optional
 Description: Foonathan memory allocator
 
 Package: fastdds-libfastcdr
-Version: 2.3.0-12
+Version: 2.3.0-13
 Architecture: arm64
 Maintainer: you@example.com
-Filename: dists/jammy/main/binary-arm64/./fastdds-libfastcdr_2.3.0-12_arm64.deb
-Size: 61504
-MD5sum: a0ab0573f9078336ea28a13bd28e32b1
-SHA1: 4811f3715c0809b7d01a2fcbe238e2976a4a5098
-SHA256: e7d4f819e305ea594d309b26dc4915b58ed6fa8baaa87862b4b635d85e5e91c9
+Filename: dists/jammy/main/binary-arm64/./fastdds-libfastcdr_2.3.0-13_arm64.deb
+Size: 61508
+MD5sum: e0a2a4a350c049a3041c28edb94c864e
+SHA1: 7002b9a73c838effe9472b3211bfb2f0b5177efa
+SHA256: 4e3e86dde6d30667e866be7cfb702bb3ea5f7a7451a1b922e6f35d29b02bbada
 Section: devel
 Priority: optional
 Description: Fast-CDR
