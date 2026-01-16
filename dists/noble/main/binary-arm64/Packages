@@ -95,15 +95,15 @@ Priority: optional
 Description: Foonathan memory allocator
 
 Package: inclination-idl-fastdds
-Version: 0.1.0-26
+Version: 0.1.0-27
 Architecture: arm64
 Maintainer: you@example.com
 Depends: openjdk-17-jre
-Filename: dists/noble/main/binary-arm64/./inclination-idl-fastdds_0.1.0-26_arm64.deb
-Size: 334512
-MD5sum: d96337f42efdd95b3c4c5612a8ae4f8d
-SHA1: 9a40142f8245d251f61070e455aa640dab166c1e
-SHA256: b4d964073db3fd222d3a222790edef937771694ac00214762e5c890b67ec6b92
+Filename: dists/noble/main/binary-arm64/./inclination-idl-fastdds_0.1.0-27_arm64.deb
+Size: 337222
+MD5sum: 3e8ea6c22def4989938ffd81cc56028c
+SHA1: 950a15cad84edafc14ec5e5e5ae8c2238317cc28
+SHA256: 1fad1a348a5fa79a24faf70abc35ea561ed222e657e36148e32e19002f650695
 Section: devel
 Priority: optional
 Description: You @ example.com
