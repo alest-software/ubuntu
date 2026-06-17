@@ -1,3 +1,16 @@
+Package: fastdds-foonathan-memory
+Version: 0.7.3-33
+Architecture: amd64
+Maintainer: you@example.com
+Filename: dists/jammy/main/binary-amd64/./fastdds-foonathan-memory_0.7.3-33_amd64.deb
+Size: 297874
+MD5sum: 3940b4ec4700114a00b67f27c9ab8264
+SHA1: 580319195c79e59991ca6b81a580c7d20a94b22b
+SHA256: 41e510589a638ee8fe4694e3f8355222c4298eb17eb7373d53e7db301ff2389a
+Section: devel
+Priority: optional
+Description: Foonathan memory allocator
+
 Package: fastdds-libfastcdr
 Version: 2.3.0-15
 Architecture: amd64
