@@ -50,3 +50,17 @@ Section: devel
 Priority: optional
 Description: Fast-DDS Python
 
+Package: inclination-idl-fastdds
+Version: 0.1.0-32
+Architecture: amd64
+Maintainer: you@example.com
+Depends: openjdk-17-jre
+Filename: dists/jammy/main/binary-amd64/./inclination-idl-fastdds_0.1.0-32_amd64.deb
+Size: 377334
+MD5sum: 7a5b2638c6da89283885730b10525dc7
+SHA1: e147f23645269ece9bdf68fd522b1f9d0f01ad23
+SHA256: 3919a16fb9cc2b7e1170aa7a4ad283329d9b6995aa779f2052b9bd0ed1f6de94
+Section: devel
+Priority: optional
+Description: You @ example.com
+
