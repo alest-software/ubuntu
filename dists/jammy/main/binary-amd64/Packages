@@ -24,3 +24,16 @@ Section: devel
 Priority: optional
 Description: Fast-CDR
 
+Package: fastdds-libfastdds
+Version: 3.3.0-34
+Architecture: amd64
+Maintainer: you@example.com
+Filename: dists/jammy/main/binary-amd64/./fastdds-libfastdds_3.3.0-34_amd64.deb
+Size: 4394506
+MD5sum: 3302877652a9374035723efaeb5ff8c7
+SHA1: 6d4e0bc56efc939c4c7971d3cf87f5c586c269bb
+SHA256: de4c733b83793c34fb3af09384f485f97c445edc321f992ecded864e35b6de23
+Section: devel
+Priority: optional
+Description: Fast-DDS
+
