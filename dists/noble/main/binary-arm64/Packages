@@ -69,14 +69,14 @@ Priority: optional
 Description: Fast-DDS
 
 Package: fastdds-python
-Version: 2.3.0-22
+Version: 2.3.0-23
 Architecture: arm64
 Maintainer: you@example.com
-Filename: dists/noble/main/binary-arm64/./fastdds-python_2.3.0-22_arm64.deb
-Size: 1322544
-MD5sum: 30dce37ad480e9dbff5599e61d24aab1
-SHA1: e679231223eeca2496f704dcc57b7065c3e8656e
-SHA256: 756bed3aaf92efb60a31addd491d02ec8920fa310f3883fcc4ae92b26d731ba4
+Filename: dists/noble/main/binary-arm64/./fastdds-python_2.3.0-23_arm64.deb
+Size: 1322584
+MD5sum: 8d2751252e88b146f5ae5ece7a91131d
+SHA1: 31802c62288bebbcc692485119498d68193da8d6
+SHA256: ac333e0560eadbcfd99171bdad1f1ac02d6b7028871b381bad931733ce15706e
 Section: devel
 Priority: optional
 Description: Fast-DDS Python
