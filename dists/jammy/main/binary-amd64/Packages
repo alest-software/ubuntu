@@ -37,3 +37,16 @@ Section: devel
 Priority: optional
 Description: Fast-DDS
 
+Package: fastdds-python
+Version: 2.3.0-23
+Architecture: amd64
+Maintainer: you@example.com
+Filename: dists/jammy/main/binary-amd64/./fastdds-python_2.3.0-23_amd64.deb
+Size: 1394022
+MD5sum: 6b0c2653b582d72ecad05f198cb995d6
+SHA1: 9d15071474e75cbb2880a5f77a0a79bd5453ac28
+SHA256: b536d994eb6b5c4b8b75cc9e79688f91860e9a530a8321ecddd3a22a9d649eff
+Section: devel
+Priority: optional
+Description: Fast-DDS Python
+
