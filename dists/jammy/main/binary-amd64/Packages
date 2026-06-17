@@ -1,0 +1,13 @@
+Package: fastdds-libfastcdr
+Version: 2.3.0-15
+Architecture: amd64
+Maintainer: you@example.com
+Filename: dists/jammy/main/binary-amd64/./fastdds-libfastcdr_2.3.0-15_amd64.deb
+Size: 64332
+MD5sum: 6ba340c74c28cd8793f2550117d5a57d
+SHA1: 4fdd304dacba0f760a0b56476fa662282250132a
+SHA256: 9e5bcc188da7ef9c28f4f7f075de136788827a9e0bc490c9cb658feabcfd3309
+Section: devel
+Priority: optional
+Description: Fast-CDR
+
