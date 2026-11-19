@@ -1,0 +1,13 @@
+Package: fastdds-libfastcdr
+Version: 2.3.0-16
+Architecture: arm64
+Maintainer: you@example.com
+Filename: dists/resolute/main/binary-arm64/./fastdds-libfastcdr_2.3.0-16_arm64.deb
+Size: 61296
+MD5sum: 1b837ee35ef6e626b82a9818dbcd8c53
+SHA1: 074e7034015bd18d36422df8b56dc7986d203142
+SHA256: 4a290e59de9eba2eaabc49198e8514cdcfcd981b83122f5991ca9e2c2b19a5f0
+Section: devel
+Priority: optional
+Description: Fast-CDR
+
