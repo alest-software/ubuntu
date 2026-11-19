@@ -43,14 +43,14 @@ Priority: optional
 Description: Foonathan memory allocator
 
 Package: fastdds-libfastcdr
-Version: 2.3.0-14
+Version: 2.3.0-16
 Architecture: arm64
 Maintainer: you@example.com
-Filename: dists/noble/main/binary-arm64/./fastdds-libfastcdr_2.3.0-14_arm64.deb
-Size: 61470
-MD5sum: 53e58c872d07aed8476c5baa495e77e8
-SHA1: e33f112f62a672e7c1d13105003feb07f1f2d8d6
-SHA256: ac934584dac7ed9d822a261b5a493788d8a79b55430d68c5a4e5ac92ece193b2
+Filename: dists/noble/main/binary-arm64/./fastdds-libfastcdr_2.3.0-16_arm64.deb
+Size: 61476
+MD5sum: 1d4daceec244ab2aba96f222d5357327
+SHA1: 289887ca2dfc43b57f6c8d3a765b5b82fe00232b
+SHA256: ed5c5d991970fb3141c2e613f772a77e4797a6b2c479e7536091f1d843d9f40a
 Section: devel
 Priority: optional
 Description: Fast-CDR
