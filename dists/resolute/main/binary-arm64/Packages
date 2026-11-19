@@ -1,3 +1,16 @@
+Package: fastdds-foonathan-memory
+Version: 0.7.3-34
+Architecture: arm64
+Maintainer: you@example.com
+Filename: dists/resolute/main/binary-arm64/./fastdds-foonathan-memory_0.7.3-34_arm64.deb
+Size: 284600
+MD5sum: 81dcf6af5d17af2b4b0ad49be306da15
+SHA1: adf36c620fb0e6c0e025dde3bb47d9f90e83175c
+SHA256: d146b37cb235abb16f8bb4e15c78123173a37e15fc0940cdb21e1789bf972f80
+Section: devel
+Priority: optional
+Description: Foonathan memory allocator
+
 Package: fastdds-libfastcdr
 Version: 2.3.0-16
 Architecture: arm64
