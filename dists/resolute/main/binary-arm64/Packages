@@ -24,3 +24,16 @@ Section: devel
 Priority: optional
 Description: Fast-CDR
 
+Package: fastdds-libfastdds
+Version: 3.3.0-35
+Architecture: arm64
+Maintainer: you@example.com
+Filename: dists/resolute/main/binary-arm64/./fastdds-libfastdds_3.3.0-35_arm64.deb
+Size: 4347176
+MD5sum: 3802e68c9b84dd5235d58a05e91d4117
+SHA1: 7fc4be5757c8a087cfa939814c94504d7215df3b
+SHA256: 9eb39bc7aa334e58791356b6b4079a3d29aa825ce477f0c01ec9073f4cbb25ed
+Section: devel
+Priority: optional
+Description: Fast-DDS
+
