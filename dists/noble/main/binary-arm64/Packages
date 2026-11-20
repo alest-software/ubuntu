@@ -56,14 +56,14 @@ Priority: optional
 Description: Fast-CDR
 
 Package: fastdds-libfastdds
-Version: 3.3.0-34
+Version: 3.3.0-35
 Architecture: arm64
 Maintainer: you@example.com
-Filename: dists/noble/main/binary-arm64/./fastdds-libfastdds_3.3.0-34_arm64.deb
-Size: 4159820
-MD5sum: 789b13b4bf71f40edcd0db17dd95b2ec
-SHA1: f11d16e6f4f0a2c89ab2234d3b5c2a207baf4114
-SHA256: 6c7a7a17b42dc5fc55143d0dd62111bf2655916af6274c4b2bccac042d3f3481
+Filename: dists/noble/main/binary-arm64/./fastdds-libfastdds_3.3.0-35_arm64.deb
+Size: 4159824
+MD5sum: 0686708792ab83b4bc1d2065860b1711
+SHA1: 52a7d0ab9460a3055d186c61f693ddbe4baf1f94
+SHA256: ae26743695250d9d474f1b8d9f3c0fc8f01b0a15042e37aa4757adce7322e691
 Section: devel
 Priority: optional
 Description: Fast-DDS
